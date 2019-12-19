@@ -1,0 +1,51 @@
+{
+    "name": "Techatitude",
+    "description": "A blog on Tech Tips, Online Tools and Software, Blogging, Mobile World, Tech News and Social Media",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28394-techattitude-com.jpg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/techatitude\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Techatitude",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28394-techattitude-com.jpg",
+            "humanURL": "http:\/\/techattitude.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/techatitude-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/techatitude-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/techattitude"
+        },
+        {
+            "type": "Email",
+            "url": "info@techattitude.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/techattitude"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/techattitude.com"
+        }
+    ]
+}
